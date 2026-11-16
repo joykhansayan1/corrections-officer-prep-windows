@@ -1,0 +1,1013 @@
+{
+"version": 1,
+"sections": [
+{
+"id": "guides",
+"title": "Study Guides (28 CFR)",
+"icon": "book",
+"summary": "Study guides summarize real, public-domain U.S. federal regulations (28 CFR, a U.S. Government work) so you can learn the rules the practice questions are built on. Your state or county exam may use different rules, so always check your agency's candidate guide too.",
+"topics": [
+{
+"id": "force",
+"title": "Use of Force",
+"reference": "28 CFR §§ 552.20–552.27",
+"blocks": [
+{
+"type": "paragraph",
+"text": "When force is allowed, how much, and what must follow."
+},
+{
+"type": "heading",
+"text": "The core rule"
+},
+{
+"type": "bullets",
+"items": [
+"Force is a last alternative, used only after all other reasonable efforts have failed.",
+"Use only the amount of force necessary to gain control and protect people, prevent serious property damage, and keep order.",
+"Staff ordinarily try to gain the inmate's voluntary cooperation first.",
+"Force may never be used to punish an inmate."
+]
+},
+{
+"type": "heading",
+"text": "Immediate vs. calculated force"
+},
+{
+"type": "bullets",
+"items": [
+"Immediate: the behavior is an immediate, serious threat to people, property, or security.",
+"Calculated: the inmate is in an area that can be isolated (such as a locked cell) with no immediate, direct threat.",
+"Before a calculated use, officials confer, a staff member is chosen to seek cooperation, and staff decide whether force is truly necessary.",
+"The Use of Force Team Technique uses trained staff in protective gear who enter together, each with a coordinated role, and apply soft restraints."
+]
+},
+{
+"type": "heading",
+"text": "Behavior that allows restraints"
+},
+{
+"type": "bullets",
+"items": [
+"Assaulting another person.",
+"Destroying government property.",
+"Attempting suicide or injuring oneself.",
+"Becoming violent or showing signs of imminent violence.",
+"Precautionary restraints (such as handcuffs when escorting an inmate to the SHU) are separate and are not restricted by this rule."
+]
+},
+{
+"type": "heading",
+"text": "After the incident"
+},
+{
+"type": "bullets",
+"items": [
+"Notify the Warden or designee immediately after temporary restraints are applied.",
+"Restraints stay on until self-control is regained.",
+"Qualified health staff examine the inmate after any use of force and treat injuries.",
+"Document every use of force, chemical agent, or less-than-lethal weapon; a copy goes in the central file."
+]
+}
+]
+},
+{
+"id": "restraints",
+"title": "Restraints & Four-Point Restraint",
+"reference": "28 CFR §§ 552.22–552.26",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Allowed uses, prohibited uses, and the checks required while an inmate is restrained."
+},
+{
+"type": "heading",
+"text": "Prohibited uses of restraint equipment"
+},
+{
+"type": "bullets",
+"items": [
+"As punishment.",
+"About the neck or face, or in any way that restricts circulation or airways.",
+"In a manner that causes unnecessary pain or extreme discomfort.",
+"To secure an inmate to a fixed object such as a cell door (except under the four-point rule).",
+"Medication may not be used as a restraint solely for security purposes."
+]
+},
+{
+"type": "heading",
+"text": "Four-point restraint requirements"
+},
+{
+"type": "bullets",
+"items": [
+"Ordered only when the Warden determines it is the only means available.",
+"Soft restraints unless they have proven ineffective.",
+"Clothing appropriate to the temperature, a mattress, and a blanket or sheet.",
+"Staff check at least every 15 minutes; a Lieutenant reviews every two hours.",
+"At every two-hour review the inmate may use the toilet unless actively resisting.",
+"Qualified health staff assess at placement and ordinarily visit twice per eight-hour shift.",
+"Beyond eight hours: health staff supervise and the Regional Director or Duty Officer is notified by phone."
+]
+},
+{
+"type": "heading",
+"text": "Special cases"
+},
+{
+"type": "bullets",
+"items": [
+"Pregnant inmates are not restrained face down in four-point restraints.",
+"Less-than-lethal weapons need Warden authority (delegable to an on-duty Lieutenant or higher who is physically present), and only for an armed or barricaded inmate or one who cannot be approached safely."
+]
+}
+]
+},
+{
+"id": "searches",
+"title": "Searches",
+"reference": "28 CFR §§ 552.10–552.14",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Which search for which situation, and who may do it."
+},
+{
+"type": "heading",
+"text": "Principles"
+},
+{
+"type": "bullets",
+"items": [
+"Use the least intrusive method practicable.",
+"Searches locate contraband and deter its introduction and movement."
+]
+},
+{
+"type": "heading",
+"text": "Types of search"
+},
+{
+"type": "bullets",
+"items": [
+"Electronic device search: no clothing removal; routine or random allowed.",
+"Pat search: hands over clothed body; routine or random allowed.",
+"Visual search: all body surfaces and cavities; needs reasonable belief or a good opportunity for concealment (SHU placement, leaving the institution, re-entry after contact with the public); private as practicable; same-sex staff unless delay would lose contraband (then document).",
+"Digital or simple instrument search: only qualified health personnel, with Warden approval and reasonable belief; document it; never if injury is likely."
+]
+},
+{
+"type": "heading",
+"text": "Housing and work areas"
+},
+{
+"type": "bullets",
+"items": [
+"Staff may search without notice or the inmate's presence.",
+"Leave the area as nearly as practicable in its original order."
+]
+},
+{
+"type": "heading",
+"text": "Close observation"
+},
+{
+"type": "bullets",
+"items": [
+"Used when contraband is suspected in a body cavity or ingested and standard searches are inappropriate or risky; authorized by the Warden or designee.",
+"Same-sex supervising staff with complete and constant visual supervision; light on at all times; no contact with other inmates.",
+"Urine sample within two hours of placement and before release; bed pan for elimination.",
+"SRO review at three days (formal hearing); Warden approval beyond seven days."
+]
+}
+]
+},
+{
+"id": "contraband",
+"title": "Contraband & Inmate Property",
+"reference": "28 CFR Part 553",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Hard vs. nuisance contraband and how seized property is handled."
+},
+{
+"type": "heading",
+"text": "Two kinds of contraband"
+},
+{
+"type": "bullets",
+"items": [
+"Hard contraband threatens safety or security and is ordinarily never approved (weapons, intoxicants, currency where prohibited).",
+"Nuisance contraband is any other item that is unauthorized, altered, or in excessive quantity (altered property, spoiled food, excess commissary or papers).",
+"Items bought from the commissary, issued, authorized on admission, or received through approved channels are ordinarily not contraband."
+]
+},
+{
+"type": "heading",
+"text": "Handling seized items"
+},
+{
+"type": "bullets",
+"items": [
+"Seize contraband wherever found: on the inmate, in quarters, or in common areas.",
+"Government property goes back to the issuing authority unless needed as evidence.",
+"Personal property is inventoried; the inmate gets a copy and has seven days to show ownership.",
+"Items from another inmate without authorization are ordinarily not claimable.",
+"Delay disposition until discipline and appeals are done; document any destruction.",
+"Hard contraband is kept for discipline or prosecution; destruction records are kept at least two years.",
+"Cash above the limit goes to the cashier."
+]
+},
+{
+"type": "heading",
+"text": "Property limits"
+},
+{
+"type": "bullets",
+"items": [
+"One approved radio and one approved watch at a time.",
+"Civilian clothing is ordinarily not authorized.",
+"Staff may not let materials pile up into a fire, sanitation, security, or housekeeping hazard."
+]
+}
+]
+},
+{
+"id": "discipline",
+"title": "Inmate Discipline Process",
+"reference": "28 CFR §§ 541.1–541.8",
+"blocks": [
+{
+"type": "paragraph",
+"text": "From incident report to DHO hearing and appeal."
+},
+{
+"type": "heading",
+"text": "Steps"
+},
+{
+"type": "bullets",
+"items": [
+"Incident report: staff witness or reasonably believe a prohibited act; the inmate ordinarily gets it within 24 hours.",
+"Investigation: the inmate is told the charge and may remain silent (silence may support an adverse inference but cannot alone prove the act).",
+"UDC review: ordinarily within five work days; two or more staff not involved in the incident.",
+"DHO hearing: only on referral; automatic for Greatest or High severity acts.",
+"Appeal through the Administrative Remedy Program."
+]
+},
+{
+"type": "heading",
+"text": "Rights and rules"
+},
+{
+"type": "bullets",
+"items": [
+"Four severity levels: Greatest, High, Moderate, Low.",
+"Aiding, attempting, abetting, or planning an act is treated like committing it.",
+"Written notice at least 24 hours before the DHO hearing (waivable).",
+"Staff representative, statement, documents, and requested witnesses (subject to limits).",
+"Only the DHO questions witnesses; reliable confidential informant evidence may be used without revealing identity.",
+"Decisions rest on at least some facts and, if conflicting, the greater weight of the evidence.",
+"UDC cannot take good time, FSA credits, order disciplinary segregation, or fine; the DHO can.",
+"Mentally ill inmates are examined by mental health staff; proceedings can be postponed or conduct excused."
+]
+}
+]
+},
+{
+"id": "shu",
+"title": "Special Housing Units",
+"reference": "28 CFR §§ 541.20–541.33",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Administrative detention, disciplinary segregation, reviews, and conditions."
+},
+{
+"type": "heading",
+"text": "Two statuses"
+},
+{
+"type": "bullets",
+"items": [
+"Administrative detention is non-punitive (classification, holdover, investigation, transfer, protection, post-disciplinary).",
+"Disciplinary segregation is punitive and imposed only by the DHO."
+]
+},
+{
+"type": "heading",
+"text": "Notice and review"
+},
+{
+"type": "bullets",
+"items": [
+"Administrative detention order ordinarily within 24 hours (not for classification or holdover).",
+"SRO records review within three work days (administrative detention).",
+"Formal hearing the inmate may attend within seven calendar days, then every 30 days; records reviews every seven days between.",
+"Inmates can challenge placement through the Administrative Remedy Program."
+]
+},
+{
+"type": "heading",
+"text": "Conditions"
+},
+{
+"type": "bullets",
+"items": [
+"Ventilated, lit, heated, sanitary quarters; mattress, blankets, pillow, linens; nutritionally adequate meals.",
+"Showers and shaves at least three times a week.",
+"Exercise at least five hours a week (the Warden may deny for a week at a time on safety grounds).",
+"Daily visit by health services staff; mental health exam after every 30 days.",
+"Disciplinary segregation: property impounded except limited reading/writing materials and religious articles."
+]
+}
+]
+},
+{
+"id": "suicide",
+"title": "Suicide Prevention & Watch",
+"reference": "28 CFR §§ 552.40–552.42",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Identification, referral, watch, and termination."
+},
+{
+"type": "heading",
+"text": "Identify and refer"
+},
+{
+"type": "bullets",
+"items": [
+"Medical staff screen new inmates, ordinarily within 24 hours.",
+"Any staff member may identify risk at any time based on observed behavior.",
+"Staff who identify an at-risk inmate have the inmate placed on suicide watch.",
+"A psychologist assesses each inmate on watch; the Program Coordinator or designee chooses the intervention."
+]
+},
+{
+"type": "heading",
+"text": "Watch conditions"
+},
+{
+"type": "bullets",
+"items": [
+"A designated room that allows control without compromising observation and protection.",
+"Constant observation by staff or trained inmate observers (only the Warden may authorize inmate observers).",
+"Observers record significant behavior in a log book."
+]
+},
+{
+"type": "heading",
+"text": "Ending the watch"
+},
+{
+"type": "bullets",
+"items": [
+"Based on clinical findings: remove when no longer at imminent risk, or transfer to a medical referral center or health care facility."
+]
+}
+]
+},
+{
+"id": "hostage",
+"title": "Hostage Situations",
+"reference": "28 CFR §§ 552.30–552.33",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Objectives and what negotiators can and cannot do."
+},
+{
+"type": "heading",
+"text": "Key points"
+},
+{
+"type": "bullets",
+"items": [
+"Primary objectives: safely free the hostage(s) and regain control of the institution.",
+"Negotiators are intermediaries with no decision-making authority.",
+"The Warden is not ordinarily the negotiator; a trained team is.",
+"Non-negotiable: release of captors, providing weapons, exchange of hostages, immunity from prosecution."
+]
+}
+]
+},
+{
+"id": "prea-prevent",
+"title": "PREA: Prevention & Screening",
+"reference": "28 CFR Part 115, Subpart A",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Zero tolerance, staffing, searches, training, and screening."
+},
+{
+"type": "heading",
+"text": "Agency duties"
+},
+{
+"type": "bullets",
+"items": [
+"Written zero-tolerance policy for all sexual abuse and harassment.",
+"Agency PREA coordinator; PREA compliance manager at each facility.",
+"Staffing plan and video monitoring, reviewed at least annually; deviations documented.",
+"Unannounced supervisory rounds on every shift; staff may not tip off others."
+]
+},
+{
+"type": "heading",
+"text": "Searches and privacy"
+},
+{
+"type": "bullets",
+"items": [
+"No cross-gender strip or visual body cavity searches except exigent circumstances or by medical practitioners.",
+"No cross-gender pat-downs of female inmates absent exigent circumstances.",
+"Opposite-gender staff announce their presence entering housing units.",
+"No searching transgender or intersex inmates just to learn genital status."
+]
+},
+{
+"type": "heading",
+"text": "Training and education"
+},
+{
+"type": "bullets",
+"items": [
+"Employees: zero-tolerance policy, responsibilities, rights, dynamics, detection, avoiding inappropriate relationships, communication, mandatory reporting; refresher every two years.",
+"Volunteers and contractors: notified of zero tolerance and how to report.",
+"Inmates: information at intake; comprehensive education within 30 days, in accessible formats."
+]
+},
+{
+"type": "heading",
+"text": "Screening"
+},
+{
+"type": "bullets",
+"items": [
+"Screen at intake (ordinarily within 72 hours) and on transfer; reassess within 30 days.",
+"Use an objective instrument; inmates cannot be disciplined for declining certain questions.",
+"Use results for housing, work, and program assignments; keep sensitive information controlled.",
+"Segregation for protection only after assessing alternatives; ordinarily not over 30 days with 30-day reviews."
+]
+}
+]
+},
+{
+"id": "prea-respond",
+"title": "PREA: Reporting & Response",
+"reference": "28 CFR Part 115, Subpart A",
+"blocks": [
+{
+"type": "paragraph",
+"text": "How to report, first-responder duties, retaliation, investigation, and care."
+},
+{
+"type": "heading",
+"text": "Reporting"
+},
+{
+"type": "bullets",
+"items": [
+"Multiple private internal ways to report, plus one outside entity; staff accept verbal, written, anonymous, and third-party reports.",
+"All staff must report immediately any knowledge, suspicion, or information, even from other facilities.",
+"Do not reveal report information except as needed for treatment, investigation, and security decisions.",
+"Alleged victims under 18 or vulnerable adults are reported to the designated State or local agency."
+]
+},
+{
+"type": "heading",
+"text": "First responder duties"
+},
+{
+"type": "bullets",
+"items": [
+"Separate the alleged victim and abuser.",
+"Preserve and protect the crime scene.",
+"Ask the victim (and ensure the abuser) not to wash, brush teeth, change clothes, use the toilet, smoke, drink, or eat.",
+"A non-security first responder asks the victim to preserve evidence and notifies security."
+]
+},
+{
+"type": "heading",
+"text": "After the report"
+},
+{
+"type": "bullets",
+"items": [
+"Monitor for retaliation at least 90 days.",
+"Investigations are prompt, thorough, and objective; no polygraph requirement for victims; standard no higher than preponderance of the evidence.",
+"Victims get timely emergency medical and mental health care at no cost, regardless of cooperation.",
+"Incident review ordinarily within 30 days (not for unfounded allegations).",
+"Staff who engage in sexual abuse: termination is the presumptive sanction."
+]
+}
+]
+},
+{
+"id": "mail",
+"title": "Inmate Mail",
+"reference": "28 CFR Part 540, Subpart B",
+"blocks": [
+{
+"type": "paragraph",
+"text": "General vs. special mail, inspection, and rejection."
+},
+{
+"type": "heading",
+"text": "General vs. special mail"
+},
+{
+"type": "bullets",
+"items": [
+"Staff open and inspect all incoming general mail and may read it.",
+"Special mail (attorneys, courts, Congress, and others listed) is opened only in the inmate's presence, only for contraband, when properly identified and marked.",
+"Without identification or marking, staff may treat it as general mail."
+]
+},
+{
+"type": "heading",
+"text": "Outgoing mail"
+},
+{
+"type": "bullets",
+"items": [
+"Minimum/low security: may be sealed, except in listed circumstances.",
+"Medium/high/administrative: may not be sealed and may be read.",
+"Pretrial inmates: may not seal general mail.",
+"Outgoing special mail may be sealed unless the inmate is on restricted special mail status."
+]
+},
+{
+"type": "heading",
+"text": "Rejection"
+},
+{
+"type": "bullets",
+"items": [
+"Grounds include nonmailable matter, violence or disruption, escape plots, threats, codes, and contraband.",
+"Written notice to sender and inmate with reasons and right to appeal to a different official.",
+"Crime-related mail is not returned but is referred to law enforcement."
+]
+}
+]
+},
+{
+"id": "visiting",
+"title": "Visiting",
+"reference": "28 CFR Part 540, Subpart D",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Lists, visitors, supervision, and special visits."
+},
+{
+"type": "heading",
+"text": "Basics"
+},
+{
+"type": "bullets",
+"items": [
+"Minimum four hours of visiting per month; hours on Saturdays, Sundays, and holidays at minimum.",
+"Children under 16 need a responsible adult unless the Warden approves.",
+"Immediate family are ordinarily placed on the list; others after investigation; convictions are weighed, not automatic bars."
+]
+},
+{
+"type": "heading",
+"text": "At the door and in the room"
+},
+{
+"type": "bullets",
+"items": [
+"Verify identity; visitor signs the guideline acknowledgment and declaration; visitors may be searched.",
+"Staff supervise to prevent contraband; limited contact (handshake, embrace, kiss) allowed absent clear and convincing evidence of risk.",
+"Visiting room officer may terminate disorderly visits and may not accept unapproved gifts."
+]
+},
+{
+"type": "heading",
+"text": "Special visitors"
+},
+{
+"type": "bullets",
+"items": [
+"Business, consular (must be permitted, even in disciplinary status), community group, clergy, employers, sponsors, parole advisors.",
+"Attorney visits: not frequency-limited, private, no auditory supervision."
+]
+}
+]
+},
+{
+"id": "phone",
+"title": "Telephone",
+"reference": "28 CFR Part 540, Subpart I",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Call lists, limits, monitoring, and costs."
+},
+{
+"type": "heading",
+"text": "Rules"
+},
+{
+"type": "bullets",
+"items": [
+"At least one call per month unless restricted by a disciplinary sanction.",
+"Telephone list ordinarily up to 30 numbers; the Associate Warden may add or deny numbers.",
+"Calls ordinarily at least three minutes with funds; Warden may cap length.",
+"Never share access codes; report a compromised code immediately.",
+"Calls may be monitored with notice, but not a properly placed call to an attorney.",
+"Third-party billing and transfer to a third party are prohibited.",
+"Inmate without funds: at least one collect call a month ($6.00 for 30 days test)."
+]
+}
+]
+},
+{
+"id": "legal",
+"title": "Legal Access & Grievances",
+"reference": "28 CFR Parts 542 and 543",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Law library, attorney access, and the Administrative Remedy Program."
+},
+{
+"type": "heading",
+"text": "Legal access"
+},
+{
+"type": "bullets",
+"items": [
+"Reasonable time for legal research, ordinarily during leisure time; special allowance for imminent court deadlines.",
+"Inmates in segregation get a means of access to legal materials.",
+"Inmates may assist each other in the law library but may not remove another inmate's materials.",
+"Attorney visits are private and not auditory-supervised; staff may search attorneys; limits on attorneys are usually limits, not denials."
+]
+},
+{
+"type": "heading",
+"text": "Administrative Remedy Program"
+},
+{
+"type": "bullets",
+"items": [
+"Try informal resolution first; formal request (BP-9) within 20 calendar days.",
+"Appeal to the Regional Director (BP-10) within 20 days; final appeal to the General Counsel (BP-11) within 30 days.",
+"Responses due in 20, 30, and 40 days; emergencies within three calendar days.",
+"Sensitive issues can go directly to the Regional Director.",
+"One issue (or closely related issues) per form; no new issues on appeal."
+]
+}
+]
+},
+{
+"id": "programs",
+"title": "Religion, Work & Health",
+"reference": "28 CFR Parts 545, 548, 549",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Programs and services staff must know."
+},
+{
+"type": "heading",
+"text": "Religion"
+},
+{
+"type": "bullets",
+"items": [
+"Reasonable and equitable opportunities for all faith groups within security limits.",
+"Written request to the chaplain for holy-day time off; chaplain verifies significance.",
+"Religious diet needs a written statement; withdrawn inmates may wait up to 30 days to rejoin.",
+"Personal religious items ordinarily allowed in the chapel."
+]
+},
+{
+"type": "heading",
+"text": "Work and pay"
+},
+{
+"type": "bullets",
+"items": [
+"Sentenced inmates who are able are assigned to work; pretrial inmates only to housekeeping unless they sign a waiver.",
+"Work day ordinarily at least seven hours; no leaving without permission.",
+"Performance pay has four grades; absences reduce pay.",
+"Report work injuries to the work supervisor."
+]
+},
+{
+"type": "heading",
+"text": "Health"
+},
+{
+"type": "bullets",
+"items": [
+"TB screening within two calendar days of incarceration.",
+"Exposure incident HIV testing does not need consent.",
+"A positive test alone is not grounds for discipline; no special housing for HIV-positive inmates.",
+"Emergency and mental health care carry no fee; staff try to persuade before forced treatment and document efforts."
+]
+}
+]
+},
+{
+"id": "pretrial",
+"title": "Pretrial Inmates & Control Units",
+"reference": "28 CFR Part 551 Subpart J; Part 541 Subpart D",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Rules that differ for detainees, plus control units."
+},
+{
+"type": "heading",
+"text": "Pretrial inmates"
+},
+{
+"type": "bullets",
+"items": [
+"Defined as legally detained with no notification of conviction to the Bureau.",
+"Initial unit team review within 21 days; then at least every 90 days; 48 hours' notice.",
+"One hour daily outdoor or two hours daily indoor recreation.",
+"Attorney visits seven days a week; calls to attorney as resources allow.",
+"No furloughs; same basic medical care as convicted inmates.",
+"Staff tell the court (through the U.S. Marshal) about repeated or serious disruptive behavior."
+]
+},
+{
+"type": "heading",
+"text": "Control units"
+},
+{
+"type": "bullets",
+"items": [
+"For inmates who cannot function in less restrictive settings without threatening others.",
+"Warden recommends to the Regional Director; factors include injuries, threats, weapons, disruptions, escapes.",
+"Not for inmates with significant mental disorder or major physical disabilities.",
+"Seven hours weekly recreation; daily medical visit; psychological evaluation within the first 30 days and every 30 days."
+]
+}
+]
+},
+{
+"id": "reports",
+"title": "Writing Clear Incident Reports",
+"reference": "Original study tips",
+"blocks": [
+{
+"type": "paragraph",
+"text": "The writing skills exams test, with examples."
+},
+{
+"type": "heading",
+"text": "Be objective"
+},
+{
+"type": "bullets",
+"items": [
+"Report what you saw, heard, and did, not what you assume the inmate intended.",
+"Replace opinions (\"obviously lying\") with facts (\"his account conflicted with the video\").",
+"Quote exact words when they matter."
+]
+},
+{
+"type": "heading",
+"text": "Be complete and ordered"
+},
+{
+"type": "bullets",
+"items": [
+"Cover who, what, when, where, and how, in time order.",
+"Use times, locations, and names.",
+"Say what you did and who you notified."
+]
+},
+{
+"type": "heading",
+"text": "Be concise and professional"
+},
+{
+"type": "bullets",
+"items": [
+"Prefer \"because\" to \"due to the fact that\".",
+"Use active voice: \"Officers conducted a recount.\"",
+"Avoid slang and exaggeration; avoid vague pronouns when two people could be meant.",
+"Keep parallel structure in lists and match verb tense."
+]
+}
+]
+},
+{
+"id": "strategy",
+"title": "Exam Strategies",
+"reference": "Original study tips",
+"blocks": [
+{
+"type": "paragraph",
+"text": "Habits that raise scores on reading, judgment, and memory sections."
+},
+{
+"type": "heading",
+"text": "Reading and judgment"
+},
+{
+"type": "bullets",
+"items": [
+"Answer from the passage or rule, not from personal opinion.",
+"Eliminate options that add facts the passage never states.",
+"Watch absolute words (always, never, only) and check them against the text.",
+"On situational questions, look for the choice that follows policy, is documented, and goes through the proper channel."
+]
+},
+{
+"type": "heading",
+"text": "Memory and observation"
+},
+{
+"type": "bullets",
+"items": [
+"Group details into chunks (who, where, when, what).",
+"Note numbers, colors, and times first; they are most often tested.",
+"Do not look back once the memory section starts."
+]
+},
+{
+"type": "heading",
+"text": "Math and maps"
+},
+{
+"type": "bullets",
+"items": [
+"Write the setup before computing; check units and whether a total or a remainder is asked.",
+"For percentages, convert to decimals; for averages, work from totals.",
+"On maps, orient north first and trace routes one turn at a time."
+]
+},
+{
+"type": "heading",
+"text": "Time management"
+},
+{
+"type": "bullets",
+"items": [
+"Aim for about 90 seconds per question on a 100-question, 150-minute test.",
+"Skip and return to hard items; never leave answers blank."
+]
+}
+]
+}
+]
+},
+{
+"id": "gloss",
+"title": "Glossary",
+"icon": "text",
+"summary": "24 corrections terms from 28 CFR.",
+"topics": [
+{
+"id": "glossary",
+"title": "Glossary of corrections terms",
+"reference": "28 CFR (U.S. Government work)",
+"blocks": [
+{
+"type": "table",
+"headers": [
+"Term",
+"Definition",
+"Source"
+],
+"rows": [
+[
+"Administrative detention status",
+"Administrative detention status is an administrative status which removes you from the general population when necessary to ensure the safety, security, and orderly operation of correctional facilities, or protect the public. Administrative detention status is non-punitive, and can occur for a variety of reasons.",
+"28 CFR § 541.22"
+],
+[
+"Contractor",
+"A person who provides services on a recurring basis pursuant to a contractual agreement with the agency.",
+"28 CFR § 115.5"
+],
+[
+"Direct staff supervision",
+"Security staff are in the same room with, and within reasonable hearing distance of, the resident or inmate.",
+"28 CFR § 115.5"
+],
+[
+"Disciplinary segregation status",
+"Disciplinary segregation status is a punitive status imposed only by a Discipline Hearing Officer (DHO) as a sanction for committing a prohibited act(s).",
+"28 CFR § 541.22"
+],
+[
+"Exigent circumstances",
+"Any set of temporary and unforeseen circumstances that require immediate action in order to combat a threat to the security or institutional order of a facility.",
+"28 CFR § 115.5"
+],
+[
+"General correspondence",
+"Incoming or outgoing correspondence other than special mail. General correspondence includes packages sent through the mail.",
+"28 CFR § 540.2"
+],
+[
+"Hard contraband",
+"Staff shall consider as hard contraband any item which threatens the safety, security, or good order of the facility or protection of the public and which ordinarily is not approved for possession by an inmate or for admission into the institution. Examples of hard contraband include weapons, intoxicants, and currency (where prohibited).",
+"28 CFR § 553.12"
+],
+[
+"Institution work assignment",
+"A work assignment which contributes to the day-to-day operation of the institution (e.g., carpentry, plumbing, food service).",
+"28 CFR § 545.21"
+],
+[
+"Jail",
+"A confinement facility of a Federal, State, or local law enforcement agency whose primary use is to hold persons pending adjudication of criminal charges, persons committed to confinement after adjudication of criminal charges for sentences of one year or less, or persons adjudicated guilty who are awaiting transfer to a correctional facility.",
+"28 CFR § 115.5"
+],
+[
+"Light duty work assignment",
+"A work assignment in which an inmate may, because of physical limitations, temporary or otherwise, only perform limited work functions, e.g., sedentary work, no prolonged standing, no lifting over 25 lbs., etc.",
+"28 CFR § 545.21"
+],
+[
+"Nuisance contraband",
+"Staff shall consider as nuisance contraband any item other than hard contraband, which has never been authorized, or which may be, or which previously has been authorized for possession by an inmate, but whose possession is prohibited when it presents a threat to safety, security, or good order of the facility or protection of the public, or its condition or excessive quantities of it present a health, fire, or housekeeping hazard. Examples of nuisance contraband include: personal property no longer permitted for admission to the institution or permitted for sale in the commissary; altered personal property; excessive accumulation of commissary, newspapers, letters, or magazines which cannot be stored neatly and safely in the designated area; food items which are spoiled or retained beyond the point of safe consumption; government-issued items which have been altered, or other items made from government property without staff authorization.",
+"28 CFR § 553.12"
+],
+[
+"Open general correspondence",
+"General correspondence which is not limited to a list of authorized correspondents, except as provided in § 540.17.",
+"28 CFR § 540.2"
+],
+[
+"Pat-down search",
+"A running of the hands over the clothed body of an inmate, detainee, or resident by an employee to determine whether the individual possesses contraband.",
+"28 CFR § 115.5"
+],
+[
+"Pretrial inmate",
+"A person who is legally detained but for whom the Bureau of Prisons has not received notification of conviction. Thus, “pretrial inmate” ordinarily includes a person awaiting trial, being tried, or awaiting a verdict.",
+"28 CFR § 551.101"
+],
+[
+"Prison",
+"An institution under Federal or State jurisdiction whose primary use is for the confinement of individuals convicted of a serious crime, usually in excess of one year in length, or a felony.",
+"28 CFR § 115.5"
+],
+[
+"Restricted general correspondence",
+"General correspondence which is limited to a list of authorized correspondents.",
+"28 CFR § 540.2"
+],
+[
+"Security staff",
+"Employees primarily responsible for the supervision and control of inmates, detainees, or residents in housing units, recreational areas, dining areas, and other program areas of the facility.",
+"28 CFR § 115.5"
+],
+[
+"Strip search",
+"A search that requires a person to remove or arrange some or all clothing so as to permit a visual inspection of the person's breasts, buttocks, or genitalia.",
+"28 CFR § 115.5"
+],
+[
+"Substantiated allegation",
+"An allegation that was investigated and determined to have occurred.",
+"28 CFR § 115.5"
+],
+[
+"Unfounded allegation",
+"An allegation that was investigated and determined not to have occurred.",
+"28 CFR § 115.5"
+],
+[
+"Unsubstantiated allegation",
+"An allegation that was investigated and the investigation produced insufficient evidence to make a final determination as to whether or not the event occurred.",
+"28 CFR § 115.5"
+],
+[
+"Volunteer",
+"An individual who donates time and effort on a recurring basis to enhance the activities and programs of the agency.",
+"28 CFR § 115.5"
+],
+[
+"Voyeurism (by staff)",
+"An invasion of privacy of an inmate, detainee, or resident by staff for reasons unrelated to official duties, such as peering at an inmate who is using a toilet in his or her cell to perform bodily functions; requiring an inmate to expose his or her buttocks, genitals, or breasts; or taking images of all or part of an inmate's naked body or of an inmate performing bodily functions.",
+"28 CFR § 115.6"
+],
+[
+"Youthful inmate",
+"Any person under the age of 18 who is under adult court supervision and incarcerated or detained in a prison or jail.",
+"28 CFR § 115.5"
+]
+]
+}
+]
+}
+]
+}
+]
+}
