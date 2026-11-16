@@ -11,7 +11,7 @@ const BILLING = 'https://store.microsoft.com/billing';
 const PRODUCTS = { monthly: 'coexam_monthly', yearly: 'coexam_yearly', lifetime: 'coexam_lifetime' };
 const PRODUCT_ORDER = [PRODUCTS.yearly, PRODUCTS.monthly, PRODUCTS.lifetime];
 // Microsoft Store ID (Partner Center > Product identity). Empty until the name is reserved.
-const STORE_ID = '';
+const STORE_ID = '9N47P9603Z19';
 const LINKS = {
   base: 'https://joykhansayan1.github.io/corrections-officer-prep-windows',
   get privacy() { return this.base + '/privacy.html'; },
